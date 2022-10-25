@@ -42,7 +42,7 @@ Tecnologías utilizadas para el desarrollo: ReactJS, NodeJS, Express, JavaScript
 <br/>
 [Repo-Back](https://github.com/gtheaded/backPF)
 <br/>
-[Deployment](frontpf-swart.vercel.app)
+<a href="https://frontpf-swart.vercel.app/" target="_blank">Deployment</a>
 ##
 <br/>
 <br/>
@@ -76,4 +76,4 @@ Tecnologías utilizadas para el desarrollo: React y Redux en el front end y Node
 ### Para contactarme
 email: gaston.turner@gmail.com
 <br/>
-linkedin: [Gaston Turner](www.linkedin.com/in/gaston-turner)
+<a href="www.linkedin.com/in/gaston-turner" target="_blank">Linkedin</a>

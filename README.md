@@ -39,6 +39,14 @@ Durante el desarrollo del proyecto trabajé en el back-end y en el front-end imp
 Tecnologías utilizadas para el desarrollo: ReactJS, NodeJS, Express, JavaScript, Tailwind, Passport
 <br/>
 <br/>
+<img src="https://user-images.githubusercontent.com/103706680/197868829-dddb8f5a-3aeb-42ed-a8a9-b975330e544d.png" width="90%"/>
+<img src="https://user-images.githubusercontent.com/103706680/197869146-dda98d83-a104-4ea2-bd9f-2e69ec1ff463.png" width="90%"/>
+<img src="https://user-images.githubusercontent.com/103706680/197869265-f280a592-f376-4c9e-a061-c150ef84c743.png" width="90%"/>
+<br/>
+<br/>
+<img src="https://user-images.githubusercontent.com/103706680/197870626-707185d3-905b-42a4-b459-4fb73d32d5bf.png" width="90%"/>
+[Repo]()
+
 
 
 

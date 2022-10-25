@@ -37,7 +37,7 @@ Durante el desarrollo del proyecto trabajé en el back-end y en el front-end imp
 - Chatbot para asistencia al cliente.
 
 Tecnologías utilizadas para el desarrollo: ReactJS, NodeJS, Express, JavaScript, Tailwind, Passport
-
+<br/>
 
 
 

@@ -38,14 +38,21 @@ Durante el desarrollo del proyecto trabajé en el back-end y en el front-end imp
 
 Tecnologías utilizadas para el desarrollo: ReactJS, NodeJS, Express, JavaScript, Tailwind, Passport
 <br/>
+[Repo-Front](https://github.com/gtheaded/FrontPF)
 <br/>
+[Repo-Back](https://github.com/gtheaded/backPF)
+<br/>
+[Deployment](frontpf-swart.vercel.app)
+##
+<br/>
+<br/>
+
 <img src="https://user-images.githubusercontent.com/103706680/197868829-dddb8f5a-3aeb-42ed-a8a9-b975330e544d.png" width="90%"/>
 <img src="https://user-images.githubusercontent.com/103706680/197869146-dda98d83-a104-4ea2-bd9f-2e69ec1ff463.png" width="90%"/>
 <img src="https://user-images.githubusercontent.com/103706680/197869265-f280a592-f376-4c9e-a061-c150ef84c743.png" width="90%"/>
 <br/>
 <br/>
 <img src="https://user-images.githubusercontent.com/103706680/197870626-707185d3-905b-42a4-b459-4fb73d32d5bf.png" width="90%"/>
-[Repo]()
 
 
 
@@ -57,12 +64,13 @@ Features del proyecto: formulario controlado para la creación de nuevas razas, 
 <br/>
 Tecnologías utilizadas para el desarrollo: React y Redux en el front end y NodeJS,  Express y Sequelize en el backend.
 <br/>
+[Repo](https://github.com/gtheaded/piDogs)
+##
 
   <img src="https://user-images.githubusercontent.com/103706680/197838318-49bd3ce5-09ea-413b-a368-523686c0b746.png" width="90%"/>
   <img src="https://user-images.githubusercontent.com/103706680/197833613-10eb0c38-70bb-434d-88f5-8e8f4bd7d040.png" width="90%"/>
 
 
-[Repo](https://github.com/gtheaded/piDogs)
 ##
 
 ### Para contactarme

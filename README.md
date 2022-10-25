@@ -1,4 +1,4 @@
-### Hola, Soy [Gaston Turner](www.linkedin.com/in/gaston-turner) 👋
+### Hola, Soy [Gaston Turner](https://linkedin.com/in/gaston-turner "Gaston Turner") 👋
 
 <!--
 **gtheaded/gtheaded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -76,4 +76,4 @@ Tecnologías utilizadas para el desarrollo: React y Redux en el front end y Node
 ### Para contactarme
 email: gaston.turner@gmail.com
 <br/>
-<a href="www.linkedin.com/in/gaston-turner" target="_blank">Linkedin</a>
+Linkedin: (www.linkedin.com/in/gaston-turner)

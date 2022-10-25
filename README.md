@@ -38,6 +38,7 @@ Durante el desarrollo del proyecto trabajé en el back-end y en el front-end imp
 
 Tecnologías utilizadas para el desarrollo: ReactJS, NodeJS, Express, JavaScript, Tailwind, Passport
 <br/>
+<br/>
 
 
 

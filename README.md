@@ -49,6 +49,11 @@ Features del proyecto: formulario controlado para la creación de nuevas razas, 
 <br/>
 Tecnologías utilizadas para el desarrollo: React y Redux en el front end y NodeJS,  Express y Sequelize en el backend.
 <br/>
+![image](https://user-images.githubusercontent.com/103706680/197834039-cfdc3bb1-e9ac-449e-b974-cae3ca880e0f.png)
+
+![image](https://user-images.githubusercontent.com/103706680/197833613-10eb0c38-70bb-434d-88f5-8e8f4bd7d040.png)
+
+
 [Repo](https://github.com/gtheaded/piDogs)
 ##
 

@@ -48,6 +48,8 @@ La aplicación consume datos desde la API de thedogapi.com y permite visualizar 
 Features del proyecto: formulario controlado para la creación de nuevas razas, búsqueda, ordenamientos y filtros combinados. Autenticación local y con redes sociales.
 <br/>
 Tecnologías utilizadas para el desarrollo: React y Redux en el front end y NodeJS,  Express y Sequelize en el backend.
+<br/>
+[Repo](https://github.com/gtheaded/piDogs)
 ##
 
 ### Para contactarme

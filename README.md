@@ -45,6 +45,7 @@ Tecnologías utilizadas para el desarrollo: ReactJS, NodeJS, Express, JavaScript
 Es una Single Page Application que nace como proyecto individual del bootcamp Henry. 
 La aplicación consume datos desde la API de thedogapi.com y permite visualizar información sobre diversas razas de perros. Tambien permite guardar razas creadas por el usuario en una base de datos PostgreSQL. 
 Features del proyecto: formulario controlado para la creación de nuevas razas, búsqueda, ordenamientos y filtros combinados. Autenticación local y con redes sociales.
+<br/>
 Tecnologías utilizadas para el desarrollo: React y Redux en el front end y NodeJS,  Express y Sequelize en el backend.
 ##
 
